@@ -4,7 +4,11 @@ All notable changes to the "formatter-utilities" extension pack will be document
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.1 - 2022 - May - 26]
+## [Unreleased]
+
+- Everything
+
+## [0.0.1] - 2022-05-26
 
 - Repository tuning
 - Initial theme definition
