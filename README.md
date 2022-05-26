@@ -6,6 +6,6 @@ This theme was made for those who like high contrast and who seek vivid colors p
 
 ### For more information
 
-- [GitHub](http://code.visualstudio.com/docs/languages/markdown)
+- [GitHub](https://github.com/Bruno-Bontorin/High-Contrast)
 
 **Enjoy!**
