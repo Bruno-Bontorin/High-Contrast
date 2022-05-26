@@ -1,0 +1,31 @@
+{
+  "name": "high-contrast",
+  "displayName": "High Contrast",
+  "description": "One more topic to choose",
+  "publisher": "bruno-bontorin",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "Contrast",
+    "Dark theme",
+    "High Contrast"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/High Contrast-color-theme.json"
+      }
+    ]
+  }
+}
