@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) for recomm
 
 - Everything
 
-## [0.0.1] - 2022-05-26
+## [0.0.1] - 2022-May-26
 
 - Repository tuning
 - Initial theme definition
